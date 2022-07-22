@@ -7,7 +7,9 @@ https://www.blickfeld.com/lidar-sensor-products/cube-1/
 
 matlab/
 -------
-Data management, processing, and analysis MATLAB code (scripts and functions) and examples for data converted from .bfpc (binary) to .csv (ASCII) files using the Blickfeld Recorder Windows application
+Data management, processing, and analysis MATLAB code (scripts and functions) and examples for data converted from .bfpc (binary) to .csv (ASCII) files using the Blickfeld Recorder Windows application*
+
+*Blickfeld Recorder can be downloaded here: https://www.blickfeld.com/resources/
 
 
 runfiles/
@@ -17,4 +19,4 @@ Codes to operate a Blickfeld Cube 1 (or Cube 1 Outdoor) LiDAR scanner autonomous
 
 sampleData/
 -----------
-Folder containing sets of sample data that are used in some of the MATLAB example and processing scripts ('matlab/scriptsEXAMPLE' and 'matlab/scriptsPROCESS')
+Folder containing sets of sample data that are used in some of the MATLAB example and processing scripts ('matlab/scriptsEXAMPLE/' and 'matlab/scriptsPROCESS/')
